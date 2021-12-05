@@ -4,20 +4,21 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <h1 data-pm-slice="0 0 []"><strong>The journey of an eight-year-old egg-seller in a tiny village in north-eastern India to be a leader in Amazon Web Services (AWS)</strong>&nbsp;</h1>
+      <p>My name is Manash Deb, currently a Software Development Manager in Amazon Web Services (AWS), Canada. Sharing my journey of becoming a leader in a top tech company from an eight-year-old egg seller in a tiny Indian village in the state, Tripura. I am an average person with an average brain and my only strength is my hard work and determination. I also got a loving, supportive family, always by my side!</p>
+      <h2><strong>Early Life</strong></h2>
+      <p>My father was a small-time farmer with a living income that was enough to feed our family of four. But he left the world when I was eight years old and my younger brother was just one. That left us with no earning member in the family and our only source of income was some tiny investments my father had made. My mother was a young lady in her twenties. Instead of finding another partner, she dedicated herself to our upbringing in a rough world around us. To sustain our lives and education, she started cultivation and raising livestock. But in those days, women could not venture into the village markets. Therefore, I, a third grader, who just learnt some simple math, started helping her by selling eggs and livestock in the village market to earn our living. Instead of all her hardship, our mother made sure for me and my younger brother to get the best education within our means. For our education, she moved with us to Agartala, the capital of our tiny state Tripura. There I studied hard and was a high average student throughout, though I could never be in the top ten.&nbsp;</p>
+      <h2>Military Experience</h2>
+      <p>At seventeen, just after my 10th, the Indian Air Force (IAF) came to Agartala for a walk-in recruitment rally and I thought it to be the best opportunity for me to help the family and also serve the nation. Fortunately, I got selected and joined as an airman. Though my salary in the IAF was low, it was enough to help with the studies of my younger brother and to construct a house back home at Agartala. The military work culture helped me a lot and made me a disciplined, organized person. It also helped with my own education and I finished my 12th (high school), Bachelors and then Masters in Computers there. I also got my soulmate while in IAF, who is a brilliant partner and my mentor of all my life moves. In IAF, I also got some great mentors who helped me transition to its software development division. I worked very hard to learn and excel in software development and soon I became one of the best software developers there, which helped me solve some of the great automation challenges for entire IAF. But internal growth opportunities were very limited for me there and hence I started preparing to move out. Ironically, while joining the military, we sign a bond to serve for twenty years and the only way out for me was to get another higher paying government job. After two years of rigorous hard work and failing in multiple tests, I got selected in the technical section of a government university that helped me get out of IAF.&nbsp;</p>
+      <h2>Career in Private IT sector</h2>
+      <p>After coming out of IAF, I joined an Indian IT company as a junior software developer. I learnt how the private IT sector works and within one year, I became tech lead in a reputed multi-national company, Publicis Sapient. There I started working for an US based Investment Banking client. With enormous hard work and dedication, I got promoted as a manager within two years and also got transferred to the US to work closely with the client.</p>
+      <h2>North American Life Style</h2>
+      <p>In the US, I learned the value of North American lifestyle and learned how valuable it would be to settle down and raise a family there. My son was also born there. We wanted to raise him in the North America, which values people for being human instead of judging by social status or background. But the immigration policies in the US are Draconian and its northern neighbour, Canada, gave us hope. To become a permanent resident of Canada, I only needed to pass an English test IELTS, with a good score. With great hard work and meticulous planning, I did great in it and became a permanent resident of Canada. My employer happily transferred me to Canada instead of losing me. I worked there for two years, managing my team based out of India, working for my client in the US, accomplishing many goals successfully.</p>
+      <h2>Career in Amazon</h2>
+      <p>When Amazon knocked on my door through linkedIn, I could not resist the opportunity. I prepared hard for a month and got selected as a Solutions Architect at Amazon Web Services (AWS). There I worked hard for two years and became one of the best performers in the team. I also proved the value of teamwork by mentoring my teammates. We achieved many goals, which were never done by many others in the organization. I learned how planning and executing in the right direction and with the right team can make a big difference for such a big company like Amazon. It helped me transition to a Software Development Manager at Amazon, where I built a new team from scratch and delivering some exceptional services, helping the growth of my team, myself and Amazon.</p>
+      <h2>Summary</h2>
+      <p>This summarized my life so far. There is nothing great in it and there are many others like me all around, I wanted to show it to the world that just with hard work and dedication, you can achieve great things in your life. You need not be born into a rich family or get the best education. Being humble, curious to learn, hard work and dedication can help you reach all heights in life. By the way, I am only at the halfway mark and I have many steps to climb. My dreams are big and you would see where I go in five years from now!</p>
+
     </div>
   );
 }
